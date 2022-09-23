@@ -1,2 +1,0 @@
-# nextjs-supabase-aplication
-next
